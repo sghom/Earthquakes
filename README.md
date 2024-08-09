@@ -1,4 +1,4 @@
-# earthquakes
+# Earthquakes
 Earthquake Data Visualization
 This repository contains Python scripts for visualizing earthquake data using Plotly. The data is sourced from JSON files and includes earthquake magnitudes, locations, and titles. The visualizations are generated as interactive HTML files, making it easy to explore and analyze global earthquake patterns.
 
