@@ -29,9 +29,9 @@ This repository contains Python scripts for visualizing earthquake data using Pl
   Files Generated:
   global_earthquakes.html: An interactive map showing the magnitude and location of earthquakes.
   
-  Example Output
-  The script generates an interactive HTML file (global_earthquakes.html) where you can view a global map of earthquakes. 
-  The size and color of each marker on the map correspond to the magnitude of the earthquake, allowing for a clear and informative visualization of global seismic activity.
+3. Example Output
+The script generates an interactive HTML file (global_earthquakes.html) where you can view a global map of earthquakes. 
+The size and color of each marker on the map correspond to the magnitude of the earthquake, allowing for a clear and informative visualization of global seismic activity.
 
 Notes
 Ensure that the JSON files you use have the expected structure with features, properties, and geometry fields.
